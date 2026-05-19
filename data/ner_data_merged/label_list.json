@@ -1,0 +1,19 @@
+[
+  "O",
+  "B-ADE",
+  "B-Anatomy",
+  "B-Disease",
+  "B-Drug",
+  "B-Measurement",
+  "B-Reason",
+  "B-Test",
+  "B-Treatment",
+  "I-ADE",
+  "I-Anatomy",
+  "I-Disease",
+  "I-Drug",
+  "I-Measurement",
+  "I-Reason",
+  "I-Test",
+  "I-Treatment"
+]

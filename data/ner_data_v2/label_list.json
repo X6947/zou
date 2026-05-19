@@ -1,0 +1,13 @@
+[
+  "O",
+  "B-Disease",
+  "B-Drug",
+  "B-Other",
+  "B-Test",
+  "B-Treatment",
+  "I-Disease",
+  "I-Drug",
+  "I-Other",
+  "I-Test",
+  "I-Treatment"
+]
